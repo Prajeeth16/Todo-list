@@ -4,7 +4,10 @@ h1 {
 .todo-form{
   text-align: center;
   background-color: #1f1e1e;
-  
+  padding:10px;
+}
+.edit-form{
+  padding:10px;
 }
 *{
   color: white;
